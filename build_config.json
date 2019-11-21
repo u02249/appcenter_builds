@@ -1,0 +1,21 @@
+{
+   "toolsets":{
+      "uwp":{
+         "slnPath":"AkvelonTestApp.sln",
+         "configuration":"Debug",
+         "platforms":[
+            "ARM",
+            "x86",
+            "x64"
+         ]
+      },
+      "buildscripts":{
+
+      }
+   },
+   "environmentVariables":[
+
+   ],
+   "trigger":"continuous",
+   "badgeIsEnabled":false
+}
