@@ -5,7 +5,7 @@ If there isn't a built config, the script creates a new config from the file.
 ## Install and Requirements
 The script can work with python3 and uses several libraries 
 For install libs you can run this command:
-`pip3 install requests, click, iso8601`
+`pip3 install requests click iso8601`
 and clone this repository
 ## Launch
 For use this script you can run these commands:
