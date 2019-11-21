@@ -10,6 +10,6 @@ and clone this repository.
 ## Launch
 For use this script you can run these commands:
 - create and run builds 
-    `python appcenter_builds.py print --app_name {app name} --owner_name {account name}  --token {your full access token} --config_file {path to config file}`;
+    `python appcenter_builds.py start_build --app_name {app name} --owner_name {account name}  --token {your full access token} --config_file {path to config file}`;
 - print build result
-   `python appcenter_builds.py print --app_name {app name} --owner_name {account name} --token {your full access token}`;
+   `python appcenter_builds.py print --app_name {app name} --owner_name {account name} --token {your read access token}`;
